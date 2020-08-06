@@ -1,6 +1,6 @@
 # IO
-+언어별 IO방법
-+[참조 링크](https://www.acmicpc.net/help/language)
+	+ 언어별 IO방법
+	+ [참조 링크](https://www.acmicpc.net/help/language)
 <br/>
 ## java
 ```JAVA
