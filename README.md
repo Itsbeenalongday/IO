@@ -3,7 +3,7 @@
 + 언어별 IO방법
 + [참조 링크](https://www.acmicpc.net/help/language)
 
-<br/> <!-- 태그쓸때는 위 아래 컨텐츠 한칸씩 띄워야 된다 -->
+<br/> <!-- 태그쓸때는 아래 컨텐츠랑 한 칸 띄워야 된다 -->
 
 ## java
 ```JAVA
