@@ -3,7 +3,7 @@
 + 언어별 IO방법
 + [참조 링크](https://www.acmicpc.net/help/language)
 
-<br/>
+<br/> <!-- 태그쓸때는 위 아래 컨텐츠 한칸씩 띄워야 된다 -->
 
 ## java
 ```JAVA
@@ -39,6 +39,7 @@ var a = parseInt(input[0]);
 var b = parseInt(input[1]);
 console.log(a+b);
 ```
+
 <br/>
 
 ## PHP
